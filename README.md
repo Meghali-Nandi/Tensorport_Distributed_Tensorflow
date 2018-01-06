@@ -6,6 +6,6 @@ Its main implementations are:
 2. Cluster
 3. Workers
 
-For using it, one needs to make the computation graph according to the requirements, rest is done in the code. Just copy the copy and make the necessary changes commented out.
+For using it, one needs to make the computation graph according to the requirements, rest is done in the code. Just copy the code and make the necessary changes commented out in it.
 
  Happy Coding!
